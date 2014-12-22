@@ -1,4 +1,4 @@
-/* Licensed to Ashish Kumar(ashvtol) */<br>
+-- Licensed to Ashish Kumar(ashvtol) <br>
 
 
 Purpose:
@@ -12,7 +12,7 @@ moods and very importantly we encrypted their data. This project was based on Da
 
 
 
-Setup instructions:<br>
+Setup instructions:
 #######################################################################################<br>
 1.To run this first setup the databses in phpMySql, the db file is included test_db.sql<br>
 2.Swicth on the apache server<br>
@@ -20,7 +20,7 @@ Setup instructions:<br>
 4.Enjoy.<br>
 
 
-Technologies Used:<br>
+Technologies Used:
 #######################################################################################<br>
 1.HTML 5.0<br>
 2.CSS 3.0<br>
