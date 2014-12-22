@@ -1,7 +1,7 @@
 /* Licensed to Ashish Kumar(ashvtol) */<br>
 
 
-Purpose:<br>
+Purpose:
 ########################################################################################<br>
 A secret diary or a private journal of ideas, notes and pictures that could be accessible from anywhere.<br>
 The main motivation was secrecy, maintaining a diary in the hostel was tough because friends visited the<br> 
